@@ -1,3 +1,5 @@
+### Temporary forked repository created for personal use with support for Laravel 11. May not work correctly or may be missing dependencies. It is recommended not to use.
+
 # Laravel-Elasticsearch
 
 An easy way to use the [official Elastic Search client](https://github.com/elastic/elasticsearch-php) in your Laravel or Lumen applications.
